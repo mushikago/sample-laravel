@@ -1,0 +1,15 @@
+.largeIcon{
+	font-size: 32px;
+}
+
+.middleIcon{
+	font-size: 24px;
+}
+
+.nowrap {
+	white-space:nowrap;
+}
+
+.cursorPointer {
+	cursor: pointer;
+}

@@ -1,0 +1,74 @@
+body{
+	font-family: a-otf-ud-shin-maru-go-pr6n,sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+.adminNav{
+	background-color: #909ccc;
+}
+.adminTitle{
+	font-family: 'lucida grande', verdana, helvetica, arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.userInput{
+	background-color: #bdbddd;
+}
+
+.grid-item--width2 { width: 210px;}
+.grid-item--height2 { height: 210px; }
+
+.grid-item--width3 { width: 100px;}
+.grid-item--height3 { height: 100px; }
+
+.topAppIcon,
+.stationIcon
+{
+	border: 1px solid #ccc;
+}
+.topAddApp
+{
+	padding-top: 82px;
+	font-size: 24px;
+	text-align: center;
+	border: 1px solid #666666;
+}
+.addStation{
+	padding-top: 30px;
+	font-size: 24px;
+	text-align: center;
+	border: 1px solid #666666;
+}
+
+
+.normalFont {
+	font-family: Verdana, "MS P Gothic", "ＭＳ Ｐゴシック", "Hiragino kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", sans-serif;
+	font-size: 18px;
+}
+
+.borderTitle{
+	border: 1px solid #000000;
+	border-radius: 0.4em;
+	padding: 10px;
+	background-color: #eeeeee;
+	padding: 20px;
+}
+
+.eventTitleBar{
+	font-size: 1.4em;
+	border: 3px solid #967fc0;
+	border-radius: 1em;
+	background-color: #fff;
+	padding: 10px;
+	vertical-align: middle;
+}
+.eventTitle{
+	margin-top: 5px;
+}
+.eventEditButton{
+	font-size: 0.8em;
+	border: 3px solid #967fc0;
+	border-radius: 0.7em;
+}
